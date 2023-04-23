@@ -378,7 +378,7 @@ slider-area
 }
 
 .single-slider {
-    background: url(../img/slider/1.jpg) no-repeat center center / cover;
+    background: url(../img/slider/1ls.jpg) no-repeat center center / cover;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -402,11 +402,11 @@ slider-area
 }
 
 .slider-2 {
-    background: url(../img/slider/2.jpg) no-repeat center center / cover;
+    background: url(../img/slider/2ls.jpg) no-repeat center center / cover;
 }
 
 .slider-3 {
-    background: url(../img/slider/3.jpg) no-repeat center center / cover;
+    background: url(../img/slider/3ls.jpg) no-repeat center center / cover;
 }
 
 
@@ -1575,7 +1575,7 @@ Gift-area
 footer-area
 ===============================*/
 .footer-area {
-    background: url(../img/footer/1.jpg) no-repeat center center / cover;
+    background: url(../img/footer/1ls.jpg) no-repeat center center / cover;
     padding: 100px 0;
     position: relative;
     z-index: 1;
